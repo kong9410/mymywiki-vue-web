@@ -1,5 +1,9 @@
 # mymywiki-vue-web
 
+https://github.com/my-my-wiki/api
+
+토이프로젝트 api 연계용 웹 화면
+
 ## Project setup
 ```
 yarn install
